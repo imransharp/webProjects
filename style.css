@@ -1,32 +1,33 @@
-
-
-img{
-    height: 200px;
-    width: 200px;
-}
-
-h2.color-title#red {
+#red{
     color:red;
-    font-weight: normal;
 }
 
-h2.color-title#blue {
+#blue{
     color:blue;
 }
 
-h2.color-title#orange {
+#orange{
     color:orange;
 }
 
-
-h2.color-title#yellow {
-    color:yellow;
-}
-
-
-h2.color-title#green {
+#green{
     color:green;
 }
 
+#purple{
+    color:purple;
+}
 
+#yellow{
+    color:yellow;
+}
+
+h2{
+    font-weight: normal;
+}
+
+img{
+    height: 100x;
+    width: 100px;
+}
 
